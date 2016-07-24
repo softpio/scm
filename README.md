@@ -1,2 +1,0 @@
-# scm
-scm players
