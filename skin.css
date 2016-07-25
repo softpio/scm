@@ -4,13 +4,13 @@
 }
 
 #player{ 
-	background:url(sizerAndVolFINAL.png); 
+	background:url(http://static.tumblr.com/5b8epgj/gsUoaug2i/sizerandvolfinal.png); 
 	background-position: bottom !important; 
 	background-repeat: repeat-x !important; 
 }
 
 #player .mainImage{ 
-background:url(main.png); 
+background:url(http://static.tumblr.com/5b8epgj/Wxsoaug46/main.png); 
 }
 
 #player #baseLeft{ width:188px; }
@@ -21,7 +21,7 @@ background:url(main.png);
 
 #player #pause{ left:32px; }
 
-#player #play{ background:url(playBtn.png);left:31px; }
+#player #play{ background:url(http://static.tumblr.com/5b8epgj/7gtoaug3f/playbtn.png);left:31px; }
 
 #player #previous{ left:8px; }
 
@@ -49,7 +49,7 @@ background:url(main.png);
 
 #player #volume{ width:70px; right:33px; }
 
-#player #volumeSlider{ width:14px; background:url(sizerAndVolFINAL.png); }
+#player #volumeSlider{ width:14px; background:url(http://static.tumblr.com/5b8epgj/gsUoaug2i/sizerandvolfinal.png); }
 
 
 
