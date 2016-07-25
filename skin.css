@@ -29,9 +29,9 @@ background:url(http://static.tumblr.com/5b8epgj/Wxsoaug46/main.png);
 
 #player #title{ left:90px;}
 
-#player #tooltip{ right:196px; }
+#player #tooltip{ right:565555px; }
 
-#player #timer{ right:120px;  }
+#player #timer{ right:555555px;  }
 
 #player #list{ right:5px; }
 
@@ -41,7 +41,7 @@ background:url(http://static.tumblr.com/5b8epgj/Wxsoaug46/main.png);
 
 #player #seekerBase{ border-color:#fff; }
 
-#player #seekerBuffered{ background-color:#DDD; }
+#player #seekerBuffered{ background-color:#eae5db; }
 
 #player #seekerSliderBase{ background-color:#a49a86; }
 
