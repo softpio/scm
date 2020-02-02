@@ -4,13 +4,13 @@
 }
 
 #player{ 
-	background:url(http://static.tumblr.com/5b8epgj/li2oauq4i/sizerandvolfinal4.png); 
+	background:url(https://github.com/softpio/scm/blob/master/sizerAndVolFINAL.png); 
 	background-position: bottom !important; 
 	background-repeat: repeat-x !important; 
 }
 
 #player .mainImage{ 
-background:url(http://static.tumblr.com/5b8epgj/KJfoc0898/main2.png); 
+background:url(https://github.com/softpio/scm/blob/master/main2.png); 
 }
 
 #player #baseLeft{ width:188px; }
@@ -21,7 +21,7 @@ background:url(http://static.tumblr.com/5b8epgj/KJfoc0898/main2.png);
 
 #player #pause{ left:32px; }
 
-#player #play{ background:url(http://static.tumblr.com/5b8epgj/lv7oc089b/playbtn2.png);left:31px; }
+#player #play{ background:url(https://github.com/softpio/scm/blob/master/playBtn2.png);left:31px; }
 
 #player #previous{ left:8px; }
 
@@ -49,7 +49,7 @@ background:url(http://static.tumblr.com/5b8epgj/KJfoc0898/main2.png);
 
 #player #volume{ width:70px; right:33px; }
 
-#player #volumeSlider{ width:14px; background:url(http://static.tumblr.com/5b8epgj/li2oauq4i/sizerandvolfinal4.png); }
+#player #volumeSlider{ width:14px; background:url(https://github.com/softpio/scm/blob/master/sizerAndVolFINAL.png); }
 
 
 
